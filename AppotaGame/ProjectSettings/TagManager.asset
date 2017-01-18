@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MenuUIWorld
+  - MenuUIShop
+  - MenuUI_Party_Current
+  - MenuUI_Party_All
+  - Friendly
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - world
+  - Friendly
+  - Enemy
+  - FriendlyFlag
+  - EnemyFlag
+  - FriendlyCastle
+  - EnemyCastle
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: world
+    uniqueID: 1269372769
+    locked: 0
+  - name: UI
+    uniqueID: 1465749869
+    locked: 0

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<partyslotcontainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <slots>
+    <slot headID="4" bodyID="1" weaponID="1" unitClassID="1" unitID="1"  name="unit1" />
+    <slot headID="4" bodyID="1" weaponID="1" unitClassID="2" unitID="2"  name="unit2" />
+    <slot headID="4" bodyID="1" weaponID="1" unitClassID="3" unitID="3"  name="unit3" />
+    <slot headID="4" bodyID="1" weaponID="1" unitClassID="4" unitID="4"  name="unit4" />
+    <slot headID="4" bodyID="1" weaponID="1" unitClassID="5" unitID="5"  name="unit4" />
+  </slots>
+</partyslotcontainer>

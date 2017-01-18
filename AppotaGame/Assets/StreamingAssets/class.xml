@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<classCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <classes>
+    <class id="0" attackRange="0" damage="0" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0"/>
+    <class id="1" attackRange="0" damage="0" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0"/>  
+  </classes>
+</classCollection>

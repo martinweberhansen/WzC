@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: ca28e354fb036cb4e8d6eb578b91c235
+timeCreated: 1474532406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armature
+    100002: armDown.L
+    100004: armDown.R
+    100006: armHand.L
+    100008: armHand.L_end
+    100010: armHand.R
+    100012: armHand.R_end
+    100014: armUp.L
+    100016: armUp.R
+    100018: //RootNode
+    100020: body
+    100022: head
+    100024: head_end
+    100026: IKarmHand.L
+    100028: IKarmHand.L_end
+    100030: IKarmHand.R
+    100032: IKarmHand.R.weapon
+    100034: IKarmHand.R.weapon_end
+    100036: IKarmHand.R_end
+    100038: IKlegFoot.L
+    100040: IKlegFoot.L_end
+    100042: IKlegFoot.R
+    100044: IKlegFoot.R_end
+    100046: legDown.L
+    100048: legDown.R
+    100050: legFoot.L
+    100052: legFoot.L_end
+    100054: legFoot.R
+    100056: legFoot.R_end
+    100058: legUp.L
+    100060: legUp.R
+    100062: neck
+    100064: root
+    100066: spine
+    400000: armature
+    400002: armDown.L
+    400004: armDown.R
+    400006: armHand.L
+    400008: armHand.L_end
+    400010: armHand.R
+    400012: armHand.R_end
+    400014: armUp.L
+    400016: armUp.R
+    400018: //RootNode
+    400020: body
+    400022: head
+    400024: head_end
+    400026: IKarmHand.L
+    400028: IKarmHand.L_end
+    400030: IKarmHand.R
+    400032: IKarmHand.R.weapon
+    400034: IKarmHand.R.weapon_end
+    400036: IKarmHand.R_end
+    400038: IKlegFoot.L
+    400040: IKlegFoot.L_end
+    400042: IKlegFoot.R
+    400044: IKlegFoot.R_end
+    400046: legDown.L
+    400048: legDown.R
+    400050: legFoot.L
+    400052: legFoot.L_end
+    400054: legFoot.R
+    400056: legFoot.R_end
+    400058: legUp.L
+    400060: legUp.R
+    400062: neck
+    400064: root
+    400066: spine
+    4300000: body
+    7400000: armature|walk cycle
+    7400002: armature|walk cycle.001
+    9500000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

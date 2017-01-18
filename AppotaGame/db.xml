@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MonsterCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Units>
+    <Unit health="10" healthModifier="1" damage="20" damageModifier="1" speed="0.5" speedModifier="0.1" currentLevel="5" maxLevel="20" name="Peasant" description="he smells nice" />
+  </Units>
+</MonsterCollection>

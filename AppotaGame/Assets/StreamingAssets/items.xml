@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ItemCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <items>
+    <item id="0" name="helmet0" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="1" name="helmet1" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="2" name="helmet2" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="3" name="helmet3" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="4" name="helmet4" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="5" name="helmet5" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+    <item id="6" name="helmet6" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Head" />
+
+    <item id="7" name="armor0" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Body" />
+    <item id="8" name="armor1" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Body" />
+    <item id="9" name="armor2" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Body" />
+    <item id="10" name="armor3" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Body" />
+
+    <item id="11" name="weapon0" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+    <item id="12" name="weapon1" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+    <item id="13" name="weapon2" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+    <item id="14" name="weapon3" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+    <item id="15" name="weapon4" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+    <item id="16" name="weapon5" damage="2" movementspeed="0" resistanceAgainstPiercing="0" resistanceAgainstSlashing="0" resistanceAgainstBlunt="0" location="Weapon" />
+  </items>
+</ItemCollection>

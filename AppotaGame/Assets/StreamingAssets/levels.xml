@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<LevelCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Levels>
+    <level id="1" name="First Level"  description="This is the first level of the game"   rewardGold="200" rewardCrystal="5" locked="false" difficultymodifier="0" />
+    <level id="2" name="Second Level" description="This is the second level of the game"  rewardGold="250" rewardCrystal="5" locked="false" difficultymodifier="0" />
+    <level id="3" name="Third Level"  description="This is the third level of the game"   rewardGold="300" rewardCrystal="5" locked="true" difficultymodifier="0" />
+    <level id="4" name="Fourth Level" description="This is the fourth level of the game"  rewardGold="400" rewardCrystal="5" locked="true" difficultymodifier="0" />
+    <level id="5" name="Fourth Level" description="This is the fifth level of the game"  rewardGold="400" rewardCrystal="5" locked="true" difficultymodifier="0" />
+    
+    
+  </Levels>
+</LevelCollection>

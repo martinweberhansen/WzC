@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MonsterCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Units>
+    <Unit id="1" name="rasmus" headID="1" bodyID="2" weaponID="0" classID="0" />
+    <Unit id="2" name="rasmus" headID="1" bodyID="2" weaponID="0" classID="0" />
+    <Unit id="3" name="rasmus" headID="1" bodyID="2" weaponID="0" classID="0" />
+    <Unit id="4" name="rasmus" headID="1" bodyID="2" weaponID="0" classID="0" />
+    <Unit id="5" name="rasmus" headID="1" bodyID="2" weaponID="0" classID="0" />
+  </Units>
+</MonsterCollection>

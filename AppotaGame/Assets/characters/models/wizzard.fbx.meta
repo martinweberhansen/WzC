@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 54dd79738c791c840af4fb244f9ebdb9
+timeCreated: 1483542240
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: armDown.L
+    100004: armDown.R
+    100006: armHand.L
+    100008: armHand.L_end
+    100010: armHand.R
+    100012: armHand.R_end
+    100014: armUp.L
+    100016: armUp.R
+    100018: body
+    100020: head
+    100022: head_end
+    100024: IKarmHand.L
+    100026: IKarmHand.L_end
+    100028: IKarmHand.R
+    100030: IKarmHand.R_end
+    100032: IKlegFoot.L
+    100034: IKlegFoot.L_end
+    100036: IKlegFoot.R
+    100038: IKlegFoot.R_end
+    100040: legDown.L
+    100042: legDown.R
+    100044: legFoot.L
+    100046: legFoot.L_end
+    100048: legFoot.R
+    100050: legFoot.R_end
+    100052: legUp.L
+    100054: legUp.R
+    100056: neck
+    100058: root
+    100060: spine
+    100062: //RootNode
+    400000: Armature
+    400002: armDown.L
+    400004: armDown.R
+    400006: armHand.L
+    400008: armHand.L_end
+    400010: armHand.R
+    400012: armHand.R_end
+    400014: armUp.L
+    400016: armUp.R
+    400018: body
+    400020: head
+    400022: head_end
+    400024: IKarmHand.L
+    400026: IKarmHand.L_end
+    400028: IKarmHand.R
+    400030: IKarmHand.R_end
+    400032: IKlegFoot.L
+    400034: IKlegFoot.L_end
+    400036: IKlegFoot.R
+    400038: IKlegFoot.R_end
+    400040: legDown.L
+    400042: legDown.R
+    400044: legFoot.L
+    400046: legFoot.L_end
+    400048: legFoot.R
+    400050: legFoot.R_end
+    400052: legUp.L
+    400054: legUp.R
+    400056: neck
+    400058: root
+    400060: spine
+    400062: //RootNode
+    4300000: body
+    7400000: dead
+    7400002: magicOne
+    7400004: magicTwo
+    7400006: idle
+    9500000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dead
+      takeName: Armature|walk cycle
+      firstFrame: 144
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/IKarmHand.L
+        weight: 1
+      - path: Armature/IKarmHand.L/IKarmHand.L_end
+        weight: 1
+      - path: Armature/IKarmHand.R
+        weight: 1
+      - path: Armature/IKarmHand.R/IKarmHand.R_end
+        weight: 1
+      - path: Armature/IKlegFoot.L
+        weight: 1
+      - path: Armature/IKlegFoot.L/IKlegFoot.L_end
+        weight: 1
+      - path: Armature/IKlegFoot.R
+        weight: 1
+      - path: Armature/IKlegFoot.R/IKlegFoot.R_end
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/legUp.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L/legFoot.L_end
+        weight: 1
+      - path: Armature/root/legUp.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R/legFoot.R_end
+        weight: 1
+      - path: Armature/root/spine
+        weight: 1
+      - path: Armature/root/spine/armUp.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L/armHand.L_end
+        weight: 1
+      - path: Armature/root/spine/armUp.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R/armHand.R_end
+        weight: 1
+      - path: Armature/root/spine/neck
+        weight: 1
+      - path: Armature/root/spine/neck/head
+        weight: 1
+      - path: Armature/root/spine/neck/head/head_end
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: magicOne
+      takeName: Armature|walk cycle
+      firstFrame: 288
+      lastFrame: 494
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.41312745
+        functionName: StopWizzardAnim
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 441005a754d620747aa86bc55cb94772,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/IKarmHand.L
+        weight: 1
+      - path: Armature/IKarmHand.L/IKarmHand.L_end
+        weight: 1
+      - path: Armature/IKarmHand.R
+        weight: 1
+      - path: Armature/IKarmHand.R/IKarmHand.R_end
+        weight: 1
+      - path: Armature/IKlegFoot.L
+        weight: 1
+      - path: Armature/IKlegFoot.L/IKlegFoot.L_end
+        weight: 1
+      - path: Armature/IKlegFoot.R
+        weight: 1
+      - path: Armature/IKlegFoot.R/IKlegFoot.R_end
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/legUp.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L/legFoot.L_end
+        weight: 1
+      - path: Armature/root/legUp.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R/legFoot.R_end
+        weight: 1
+      - path: Armature/root/spine
+        weight: 1
+      - path: Armature/root/spine/armUp.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L/armHand.L_end
+        weight: 1
+      - path: Armature/root/spine/armUp.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R/armHand.R_end
+        weight: 1
+      - path: Armature/root/spine/neck
+        weight: 1
+      - path: Armature/root/spine/neck/head
+        weight: 1
+      - path: Armature/root/spine/neck/head/head_end
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: magicTwo
+      takeName: Armature|walk cycle
+      firstFrame: 549
+      lastFrame: 728
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.26013505
+        functionName: StopWizzardAnim
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 441005a754d620747aa86bc55cb94772,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/IKarmHand.L
+        weight: 1
+      - path: Armature/IKarmHand.L/IKarmHand.L_end
+        weight: 1
+      - path: Armature/IKarmHand.R
+        weight: 1
+      - path: Armature/IKarmHand.R/IKarmHand.R_end
+        weight: 1
+      - path: Armature/IKlegFoot.L
+        weight: 1
+      - path: Armature/IKlegFoot.L/IKlegFoot.L_end
+        weight: 1
+      - path: Armature/IKlegFoot.R
+        weight: 1
+      - path: Armature/IKlegFoot.R/IKlegFoot.R_end
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/legUp.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L/legFoot.L_end
+        weight: 1
+      - path: Armature/root/legUp.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R/legFoot.R_end
+        weight: 1
+      - path: Armature/root/spine
+        weight: 1
+      - path: Armature/root/spine/armUp.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L/armHand.L_end
+        weight: 1
+      - path: Armature/root/spine/armUp.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R/armHand.R_end
+        weight: 1
+      - path: Armature/root/spine/neck
+        weight: 1
+      - path: Armature/root/spine/neck/head
+        weight: 1
+      - path: Armature/root/spine/neck/head/head_end
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Armature|walk cycle
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/IKarmHand.L
+        weight: 1
+      - path: Armature/IKarmHand.L/IKarmHand.L_end
+        weight: 1
+      - path: Armature/IKarmHand.R
+        weight: 1
+      - path: Armature/IKarmHand.R/IKarmHand.R_end
+        weight: 1
+      - path: Armature/IKlegFoot.L
+        weight: 1
+      - path: Armature/IKlegFoot.L/IKlegFoot.L_end
+        weight: 1
+      - path: Armature/IKlegFoot.R
+        weight: 1
+      - path: Armature/IKlegFoot.R/IKlegFoot.R_end
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/legUp.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L
+        weight: 1
+      - path: Armature/root/legUp.L/legDown.L/legFoot.L/legFoot.L_end
+        weight: 1
+      - path: Armature/root/legUp.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R
+        weight: 1
+      - path: Armature/root/legUp.R/legDown.R/legFoot.R/legFoot.R_end
+        weight: 1
+      - path: Armature/root/spine
+        weight: 1
+      - path: Armature/root/spine/armUp.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L
+        weight: 1
+      - path: Armature/root/spine/armUp.L/armDown.L/armHand.L/armHand.L_end
+        weight: 1
+      - path: Armature/root/spine/armUp.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R
+        weight: 1
+      - path: Armature/root/spine/armUp.R/armDown.R/armHand.R/armHand.R_end
+        weight: 1
+      - path: Armature/root/spine/neck
+        weight: 1
+      - path: Armature/root/spine/neck/head
+        weight: 1
+      - path: Armature/root/spine/neck/head/head_end
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
